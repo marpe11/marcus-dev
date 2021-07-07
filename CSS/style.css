@@ -726,8 +726,8 @@ a {
     height: 210px;
     border-radius: 50%;
     border: 25px solid transparent;
-    border-top-color: #e97e2e;
-    border-right-color: #e97e2e;
+    border-top-color: #ee5a6f;
+    border-right-color: #ee5a6f;
     z-index: 1;
     transform: rotate(45deg)
 }
@@ -786,8 +786,8 @@ a {
 
 .main-timeline3 .timeline:nth-child(2n) .timeline-icon {
     transform: rotate(-135deg);
-    border-top-color: #e97e2e;
-    border-right-color: #e97e2e
+    border-top-color: #ee5a6f;
+    border-right-color: #ee5a6f;
 }
 
 .main-timeline3 .timeline:nth-child(2n) .year {
@@ -806,12 +806,12 @@ a {
 
 .main-timeline3 .timeline:nth-child(2n) .timeline-content,
 .main-timeline3 .timeline:nth-child(2n) .timeline-content:before {
-    background: linear-gradient(to right, #ee5a6f, #f29263);
+    background: linear-gradient(to left, #ee5a6f, #f29263);
 }
 
 .main-timeline3 .timeline:nth-child(3n) .timeline-icon {
-    border-top-color: #e97e2e;
-    border-right-color: #e97e2e
+    border-top-color: #ee5a6f;
+    border-right-color: #ee5a6f
 }
 
 .main-timeline3 .timeline:nth-child(3n) .year {
@@ -824,8 +824,8 @@ a {
 }
 
 .main-timeline3 .timeline:nth-child(4n) .timeline-icon {
-    border-top-color: #e97e2e;
-    border-right-color: #e97e2e
+    border-top-color: #ee5a6f;
+    border-right-color: #ee5a6f;
 }
 
 .main-timeline3 .timeline:nth-child(4n) .year {
@@ -834,7 +834,7 @@ a {
 
 .main-timeline3 .timeline:nth-child(4n) .timeline-content,
 .main-timeline3 .timeline:nth-child(4n) .timeline-content:before {
-    background: linear-gradient(to right, #ee5a6f, #f29263);
+    background: linear-gradient(to left, #ee5a6f, #f29263);
 }
 
 @media only screen and (max-width:1199px) {
